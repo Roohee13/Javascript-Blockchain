@@ -1,19 +1,16 @@
-# SmashingCoin: A Simple Cryptocurrency Blockchain in Node.js
-About
+# Cryptocurrency Blockchain in Node.js
+About:
 This repository contains a simple implementation of a cryptocurrency blockchain in Node.js, as described in the tutorial on Smashing Magazine.
 
-Getting Started
-To follow this tutorial, you'll need to have the following:
 
 Node.js installed on your machine
 A basic understanding of JavaScript and Node.js
-Blockchain Overview
+
+Blockchain Overview:
 The blockchain technology is receiving a lot of attention because of its ability to enhance security in trustless environments, enforce decentralization, and make processes efficient.
 
-SmashingCoin
-In this tutorial, we'll build a simple cryptocurrency blockchain in Node.js, which we'll call SmashingCoin.
+CryptoBlock Class:
 
-CryptoBlock Class
 Here is the code for the CryptoBlock class:
 
 javascript
@@ -39,10 +36,11 @@ class CryptoBlock {
     // implementation of the computeHash method
   }
 }
-License
+
+License:
 This project is licensed under the MIT License.
 
-Contributing
+Contributing:
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
 
